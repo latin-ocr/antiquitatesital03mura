@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital03mura_0009.png"; bbox 0 0 2216 3105; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 766 1859 960">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 233 766 1859 960">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 766 1859 960; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 233 855 431 958; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 494 766 1859 960; x_wconf 78' lang='lat' dir='ltr'>POENERATORIBUS‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 1079 1763 1277">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 1079 1763 1277">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 1079 1763 1164; baseline -0.001 -21"><span class='ocrx_word' id='word_1_3' title='bbox 333 1084 700 1164; x_wconf 75' lang='lat' dir='ltr'>JUDAEIS‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 738 1080 1336 1143; x_wconf 69' lang='lat' dir='ltr'>SOCIETATIBUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1373 1079 1763 1142; x_wconf 89' lang='lat' dir='ltr'>MILITUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 455 1203 1639 1277; baseline 0.004 -15"><span class='ocrx_word' id='word_1_6' title='bbox 455 1203 1033 1277; x_wconf 79' lang='lat' dir='ltr'>PRAEDONUM5</span> <span class='ocrx_word' id='word_1_7' title='bbox 1079 1203 1485 1277; x_wconf 87' lang='lat' dir='ltr'>LEPROSIS‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1533 1211 1639 1267; x_wconf 65' lang='grc' dir='ltr'>δίε.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 297 1376 1803 1664">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 297 1376 1803 1664">
+     <span class='ocr_line' id='line_1_4' title="bbox 297 1376 1803 1470; baseline -0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 297 1376 396 1467; x_wconf 91' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_10' title='bbox 463 1379 503 1468; x_wconf 95' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_11' title='bbox 576 1376 634 1467; x_wconf 87' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_12' title='bbox 708 1378 767 1466; x_wconf 87' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_13' title='bbox 841 1378 921 1467; x_wconf 83' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 991 1377 1082 1466; x_wconf 72' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_15' title='bbox 1142 1378 1235 1465; x_wconf 81' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_16' title='bbox 1296 1382 1382 1465; x_wconf 83' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_17' title='bbox 1437 1379 1640 1470; x_wconf 84' lang='lat' dir='ltr'>TI</span> <span class='ocrx_word' id='word_1_18' title='bbox 1711 1376 1803 1466; x_wconf 87' lang='lat' dir='ltr'>O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 568 1548 1551 1664; baseline 0.001 -5"><span class='ocrx_word' id='word_1_19' title='bbox 568 1548 1551 1664; x_wconf 53' lang='lat' dir='ltr'>SEXTADECIMAp</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
